@@ -4,3 +4,5 @@ all:
 
 clean:
 	rm dual-n-back.a
+
+fclean: clean
