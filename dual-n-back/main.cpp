@@ -80,6 +80,7 @@ void manual()
 	std::cout << "s for sound signal." << std::endl;
 	std::cout << "vs or sv for sound and visual signal." << std::endl;
 	std::cout << "\nq to quit the game." << std::endl;
+	std::cout << "\nLeft indications are for sounds and right for visuals" << std::endl;
 	std::getline(std::cin, ret);
 }
 
